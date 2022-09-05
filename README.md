@@ -7,3 +7,5 @@ git commit -m 'provide message regarding changes that need to commit i.e. adding
 git push   // push the code to remote github repo
 git checkout -b <branch_name>  // to create a new branch in remote github repo
 git status
+git push --set-upstream origin deploy
+git pull   // to pull all changes from remote to local github repo
