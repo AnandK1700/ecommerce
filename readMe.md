@@ -4,3 +4,7 @@ npm i sequelize-cli
 npx sequelize init
 "npx sequelize db:create" to create a database
 "npx sequelize model:generate --name Categories --attributes name:text,description:text" to create a model
+
+
+
+checking to see if pushing the changes is in which branch
